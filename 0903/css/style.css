@@ -105,6 +105,9 @@ ul li:nth-child(1)::before {
 ul li:nth-child(2)::before {
     content: url('../images/icon_email.png');
 }
+ul li:nth-child(3)::before {
+    content: url('../images/icon_github1.png');
+}
 
 
 #skill ol {
